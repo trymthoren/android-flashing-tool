@@ -59,10 +59,18 @@ If you have any questions or issues, you can reach out to trymthoren@gmail.com.
 
 Buy Me a Coffee
 If you find this tool helpful and would like to support my work, consider buying me a coffee with cryptocurrency:
+
 • BTC: bc1q6sk70x0weejgujpe588d3wwcrravym4yxl77ne
+
 • ETH: 0x0f89ff6C031b37D22274Ae3F5832647dA886fb58
+
 • BNB: 0x0f89ff6C031b37D22274Ae3F5832647dA886fb58
+
 • SOL: GarNENoHZ3VF3wGqZKLgeZvQBFrcsVceEoVXSemaFg8j
+
 • LTC: ltc1qdl35rrxl5dwpu6gd0pzgyn4gsqve4nj5e9nry6
+
 • XMR: 421dTYYkA9CGaudEG6UY3pbfozcoMRntXPKjgTzNqtnYK6wKLVLJ7TLXXVCB5P6v991Ev9FknJQXCdTUDBd2tpPKD3dGmL4
+
+
 Your support is greatly appreciated!
